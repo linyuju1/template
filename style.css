@@ -1,7 +1,7 @@
 body {
 	color:#000099;
 	background:#CCCCFF;
-	font-family:Helvetica;
+	font-family:Lucida;
 	width:960px;
 	margin:auto;
 }
@@ -15,7 +15,7 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#9933CC;
+	color:#660099;
 }
 
 a, a:visited {
