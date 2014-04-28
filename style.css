@@ -1,5 +1,5 @@
 body {
-	color:#FFCCCC;
+	color:#CC3399;
 	background:#CCCCFF;
 	font-family:Courier;
 	width:960px;
@@ -15,7 +15,7 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#FF99CC;
+	color:#9933CC;
 }
 
 a, a:visited {
