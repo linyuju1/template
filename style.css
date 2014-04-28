@@ -1,5 +1,5 @@
 body {
-	color:#CC3399;
+	color:#F00000;
 	background:#CCCCFF;
 	font-family:Helvetica;
 	width:960px;
@@ -19,7 +19,7 @@ header, main h1 {
 }
 
 a, a:visited {
-	color:#003399;
+	color:#336699;
 	text-decoration:none;
 }
 
