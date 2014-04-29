@@ -75,3 +75,8 @@ article {
 	display: block;
 	float:right;
 	}
+	
+img{
+	height:30px;
+	width:30px;
+}
